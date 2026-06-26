@@ -8,7 +8,7 @@
 
 - 🏫 **B.Eng.**: Hunan University (Project 985, Top 30 in China)
 - 🎓 **MSc (incoming)**: University of Bristol — MSc Data Science (Sept 2026)
-- 💰 **Scholarship**: Think Big £13,000 + Career Accelerator £3,000
+- 💰 **Scholarship**: XXXXXXXXXXXXXXX
 - 🔬 **Research**: Time-LLM Reprogramming for Multi-Pathogen Epidemic Forecasting
 - 📧 **Contact**: [Your Email]
 
